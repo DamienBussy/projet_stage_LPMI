@@ -1,0 +1,32 @@
+{
+	"success": true,
+	"commande": [
+		{
+			"commandeId": "123",
+			"centreProfitCode": "code",
+			"centreProfitLibelle": "Centre",
+			"dateLivraison": "2022-05-05",
+			"montantHT": 70.570,
+			"fournisseurCode": "123",
+			"fournisseurLibelle": "test",
+			"fournisseurAvoirPrix": 1,
+			"articles": [
+				{
+					"quantiteCommandee": 10.0,
+					"familleN2Code": "test",
+					"uniteCommande": "test",
+					"conditionStockageCode": "Code",
+					"familleN2Libelle": "test",
+					"familleN3Code": "test",
+					"familleN1Libelle": "test",
+					"familleN3Libelle": "test",
+					"familleN1Code": "test",
+					"conditionStockageLibelle": "test",
+					"articleCode": "article Code",
+					"prixAchatHT": 0.560,
+					"articleLibelle": "article"
+				}	
+			]
+		}
+	]
+}
